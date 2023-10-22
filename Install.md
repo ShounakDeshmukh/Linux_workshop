@@ -1,4 +1,4 @@
-# Note for MacOS Users the content we teach will work on your machines out of the box give or take one or 2 commands, if you have an intel based mac(i.e you dont have M1 M2 CPUs) and you want to follow along then this should guide will work for you 
+# Note for MacOS Users the content we teach will work on your machines out of the box give or take one or 2 commands, if you have an intel based mac(i.e you dont have M1 M2 CPUs) and you want to follow along then this guide will work for you 
 
 # Installing VirtualBox with Ubuntu on Windows
 
